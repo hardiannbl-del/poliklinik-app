@@ -1,4 +1,4 @@
-<x-layouts.app title="Tambah Obat">
+<x-layouts.app title="Edit Obat">
 
     {{-- Header --}}
     <div class="flex items-center gap-3 mb-6">
